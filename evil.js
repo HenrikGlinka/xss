@@ -1,1 +1,1 @@
-alert('Ha ha ha ha ha!');
+document.body.style.backgroundColor = 'hotpink';
